@@ -339,6 +339,9 @@ margin: 0px auto;
     color: rgba(107, 114, 128, 1);
     
 }
+.lic:hover{
+    background-color: greenyellow;
+}
 
 .hide:hover{
     background-color:greenyellow;
