@@ -340,9 +340,14 @@ margin: 0px auto;
     
 }
 
+.hide:hover{
+    background-color:greenyellow;
+}
+
 
 /*mobile responsive*/
 @media screen and (max-width:576px) {
+    
     .cart{
         margin-top: 25px;
         font-size: 1.2rem;
